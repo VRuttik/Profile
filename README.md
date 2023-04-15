@@ -4,13 +4,15 @@
 <p align="center"> <img src="https://vruttik.w3spaces.com/Vruttik.jpeg" alt="vruttik" width="35%" height="55%" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vruttik" alt="vruttik" /></a> </p>
-
+<p align="center">
 - 🌱 I’m currently learning **Programming Using Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VRuttik](https://github.com/VRuttik)
 
 - 📫 How to reach me **vruttikmorgha@gmail.com**
 
+  </p>
+  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   

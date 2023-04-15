@@ -6,11 +6,14 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vruttik" alt="vruttik" /></a> </p>
 <p align="center">
 - 🌱 I’m currently learning **Programming Using Java**
+</p>
 
+<p align="center">
 - 👨‍💻 All of my projects are available at [https://github.com/VRuttik](https://github.com/VRuttik)
+</p>
 
+<p align="center">
 - 📫 How to reach me **vruttikmorgha@gmail.com**
-
   </p>
   
 <h3 align="center">Connect with me:</h3>

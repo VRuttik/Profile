@@ -3,7 +3,10 @@
 
 <p align="center"> <img src="https://vruttik.w3spaces.com/Vruttik.jpeg" alt="vruttik" width="35%" height="55%" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vruttik" alt="vruttik" /></a> </p>
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vruttik" alt="vruttik" /></a>
+</p>
+
 <p align="center">
 - 🌱 I’m currently learning **Programming Using Java**
 </p>

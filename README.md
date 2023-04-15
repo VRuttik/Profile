@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vruttik Moragha</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-<p align="left"> <img src="https://vruttik.w3spaces.com/Vruttik.jpeg" alt="vruttik" width="35%" height="55%" /> </p>
+<p align="center"> <img src="https://vruttik.w3spaces.com/Vruttik.jpeg" alt="vruttik" width="35%" height="55%" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vruttik" alt="vruttik" /></a> </p>
 

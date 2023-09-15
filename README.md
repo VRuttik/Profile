@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vruttik Moragha</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-<p align="center"> <img src="https://w0.peakpx.com/wallpaper/225/669/HD-wallpaper-coding-game-development-csharp-unity-technology.jpg" alt="vruttik" width="35%" height="55%" /> </p>
+<p align="center"> <img src="https://w0.peakpx.com/wallpaper/225/669/HD-wallpaper-coding-game-development-csharp-unity-technology.jpg" alt="vruttik" width="100%" height="75%" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vruttik&label=Profile%20views&color=0e75b6&style=flat" alt="vruttik" /> </p>
 

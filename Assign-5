@@ -1,0 +1,45 @@
+CREATE TABLE Orders (
+    OrderID INT PRIMARY KEY,
+    CustomerName VARCHAR(255),
+    OrderDate DATE,
+    TotalAmount DECIMAL(10, 2)
+);
+
+INSERT INTO Orders (OrderID, CustomerName, OrderDate, TotalAmount) VALUES
+(1, 'John Doe', '2023-01-15', 100.50),
+(2, 'Jane Smith', '2023-02-20', 75.25),
+(3, 'Bob Johnson', '2023-03-10', 150.75);
+
+-- Create a view
+CREATE VIEW OrderSummary AS
+SELECT OrderID, CustomerName, OrderDate, TotalAmount
+FROM Orders;
+
+-- Declare variables for cursor
+DECLARE order_id INT;
+DECLARE customer_name VARCHAR(255);
+DECLARE order_date DATE;
+DECLARE total_amount DECIMAL(10, 2);
+
+-- Declare cursor
+DECLARE order_cursor CURSOR FOR
+SELECT OrderID, CustomerName, OrderDate, TotalAmount
+FROM Orders;
+
+-- Open the cursor
+OPEN order_cursor;
+
+-- Fetch data from the cursor
+FETCH order_cursor INTO order_id, customer_name, order_date, total_amount;
+
+-- Loop through the cursor and print results
+WHILE @@FETCH_STATUS = 0 DO
+    -- Print or process the fetched data as needed
+    SELECT CONCAT('OrderID: ', order_id, ', CustomerName: ', customer_name, ', OrderDate: ', order_date, ', TotalAmount: ', total_amount) AS OrderDetails;
+    
+    -- Fetch the next row
+    FETCH order_cursor INTO order_id, customer_name, order_date, total_amount;
+END WHILE;
+
+-- Close the cursor
+CLOSE order_cursor;

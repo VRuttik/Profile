@@ -3,22 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    /* Styles for the icon container and animation */
-    .icon-container {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 20px;
-      justify-content: center;
-    }
-    .icon-container a {
-      display: inline-block;
-      transition: transform 0.3s ease-in-out;
-    }
-    .icon-container a:hover {
-      transform: scale(1.1);
-    }
-  </style>
 </head>
 <body>
   <h1 align="center">Hi 👋, I'm Vruttik Moragha</h1>

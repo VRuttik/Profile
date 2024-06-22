@@ -23,7 +23,7 @@
   </div>
 
   <ul align="left">
-    <li>🌱 I’m currently learning 🤔.</li>
+    <li>🌱 I’m currently learning 🤔 .</li>
     <li>👨‍💻 All of my projects are available at <a href="https://github.com/VRuttik">https://github.com/VRuttik</a></li>
     <li>📫 How to reach me: <a href="mailto:vruttikmorgha@gmail.com">vruttikmorgha@gmail.com</a></li>
     <li>⚡ Fun fact: "I think I'm Cool and Funny."</li>
